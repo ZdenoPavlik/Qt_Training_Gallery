@@ -1,0 +1,4 @@
+/home/host/work/QtTrainings/Gallery/galleryQml/build/CMakeFiles/rebuild_cache.dir
+/home/host/work/QtTrainings/Gallery/galleryQml/build/CMakeFiles/GalleryQml.dir
+/home/host/work/QtTrainings/Gallery/galleryQml/build/CMakeFiles/edit_cache.dir
+/home/host/work/QtTrainings/Gallery/galleryQml/build/CMakeFiles/GalleryQml_autogen.dir
